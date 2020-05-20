@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gaga20.ui:
+    image: ${DOCKER_REGISTRY-}gaga20ui
+    build:
+      context: .
+      dockerfile: GaGa20.UI\Dockerfile
