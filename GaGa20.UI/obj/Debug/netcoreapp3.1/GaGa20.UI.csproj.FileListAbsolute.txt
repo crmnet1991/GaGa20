@@ -21,3 +21,17 @@ C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.RazorTargetAss
 C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.RazorTargetAssemblyInfo.cs
 C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\staticwebassets\GaGa20.UI.StaticWebAssets.Manifest.cache
 C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\staticwebassets\GaGa20.UI.StaticWebAssets.xml
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.deps.json
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.runtimeconfig.json
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.runtimeconfig.dev.json
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.dll
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.pdb
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.Views.dll
+C:\_Repository\GaGa20\GaGa20.UI\bin\Debug\netcoreapp3.1\GaGa20.UI.Views.pdb
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.csproj.CoreCompileInputs.cache
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.Views.pdb
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.dll
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.pdb
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.genruntimeconfig.cache
+C:\_Repository\GaGa20\GaGa20.UI\obj\Debug\netcoreapp3.1\GaGa20.UI.csproj.CopyComplete

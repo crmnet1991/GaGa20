@@ -1,0 +1,14 @@
+C:\_Repository\GaGa20\bin\Debug\GaGa20.UI.Views.dll
+C:\_Repository\GaGa20\bin\Debug\GaGa20.UI.Views.pdb
+C:\_Repository\GaGa20\bin\Debug\appsettings.Development.json
+C:\_Repository\GaGa20\bin\Debug\appsettings.json
+C:\_Repository\GaGa20\bin\Debug\Properties\launchSettings.json
+C:\_Repository\GaGa20\bin\Debug\GaGa20.UI.exe
+C:\_Repository\GaGa20\bin\Debug\GaGa20.API.exe
+C:\_Repository\GaGa20\bin\Debug\GaGa20.API.dll
+C:\_Repository\GaGa20\bin\Debug\GaGa20.UI.dll
+C:\_Repository\GaGa20\bin\Debug\GaGa20.UI.pdb
+C:\_Repository\GaGa20\bin\Debug\GaGa20.API.pdb
+C:\_Repository\GaGa20\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\_Repository\GaGa20\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\_Repository\GaGa20\obj\Debug\docker-compose.dcproj.CopyComplete

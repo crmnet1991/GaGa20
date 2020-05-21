@@ -6,3 +6,10 @@ services:
     build:
       context: .
       dockerfile: GaGa20.UI\Dockerfile
+
+  gaga20.api:
+    image: ${DOCKER_REGISTRY-}gaga20api
+    build:
+      context: .
+      dockerfile: ..\GaGa20.API\Dockerfile
+
