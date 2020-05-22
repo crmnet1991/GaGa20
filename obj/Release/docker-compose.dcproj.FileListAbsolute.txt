@@ -1,0 +1,1 @@
+C:\_Repository\GaGa20\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
