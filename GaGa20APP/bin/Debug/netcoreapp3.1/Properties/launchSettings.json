@@ -2,9 +2,13 @@
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/GaGa20APP",
+      "sslPort": 0
+    },
     "iisExpress": {
       "applicationUrl": "http://localhost:58494",
-      "sslPort": 44399
+      "sslPort": 0
     }
   },
   "$schema": "http://json.schemastore.org/launchsettings.json",

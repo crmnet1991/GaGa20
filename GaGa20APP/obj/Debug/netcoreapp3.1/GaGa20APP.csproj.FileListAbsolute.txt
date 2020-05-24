@@ -18,3 +18,4 @@ C:\_Repository\GaGa20\GaGa20APP\obj\Debug\netcoreapp3.1\GaGa20APP.MvcApplication
 C:\_Repository\GaGa20\GaGa20APP\obj\Debug\netcoreapp3.1\GaGa20APP.dll
 C:\_Repository\GaGa20\GaGa20APP\obj\Debug\netcoreapp3.1\GaGa20APP.pdb
 C:\_Repository\GaGa20\GaGa20APP\obj\Debug\netcoreapp3.1\GaGa20APP.genruntimeconfig.cache
+C:\_Repository\GaGa20\GaGa20APP\bin\Debug\netcoreapp3.1\web.config
